@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: rgb(0, 166, 208);
+    padding: 0px;
+    text-align: center;
+    box-shadow: -2px 1px 10px rgb(115, 125, 160);
+}
+
+.title {
+    display: inline-block;
+    color: rgb(255, 255, 255);
+}
+
+    h1 {
+        font-family: 'Allan', Helvetica, Arial, sans-serif;
+        font-size: 70px !important;
+        line-height: 75px;
+    }
+
+    h4 {
+        font-family: 'Droid Sans', Helvetica, Arial, sans-serif !important;
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+.scores {
+    color: black;
+    height: 50px;
+    font-weight: 800;
+    font-size: 80px;
+    width: 100%;
+    font-family: 'Arvo', Georgia, Times, serif;
+}
+
+#score {
+    margin-top: 10px;
+    font-family: 'Arvo', Georgia, Times, serif;
+    font-size: 30px;
+}
+
+#hscore {
+    font-family: 'Arvo', Georgia, Times, serif;
+    font-size: 30px;
+}

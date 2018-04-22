@@ -1,0 +1,50 @@
+[
+    {
+        "name": "bootstrap",
+        "img": "http://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"
+    },
+    {
+        "name": "css",
+        "img": "http://konpa.github.io/devicon/devicon.git/icons/css3/css3-original.svg"
+    },
+    {
+        "name": "git",
+        "img": "http://konpa.github.io/devicon/devicon.git/icons/git/git-original.svg"
+    },
+    {
+        "name": "github",
+        "img": "http://konpa.github.io/devicon/devicon.git/icons/github/github-original.svg"
+    },
+    {
+        "name": "heroku",
+        "img": "http://konpa.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg"
+    },
+    {
+        "name": "html",
+        "img": "http://konpa.github.io/devicon/devicon.git/icons/html5/html5-original.svg"
+    },
+    {
+        "name": "javascript",
+        "img": "http://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+    },
+    {
+        "name": "mocha",
+        "img": "http://konpa.github.io/devicon/devicon.git/icons/mocha/mocha-plain.svg"
+    },
+    {
+        "name": "mongodb",
+        "img": "http://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg"
+    },
+    {
+        "name": "nodejs",
+        "img": "http://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg"
+    },
+    {
+        "name": "react",
+        "img": "http://konpa.github.io/devicon/devicon.git/icons/react/react-original.svg"
+    },
+    {
+        "name": "sequelize",
+        "img": "http://konpa.github.io/devicon/devicon.git/icons/sequelize/sequelize-original.svg"
+    }
+]
