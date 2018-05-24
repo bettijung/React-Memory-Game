@@ -1,5 +1,6 @@
 # Web Dev Memory Game
-This is a serverless Web-Dev themed memory game built using React. The app's state shuffles around the images available to make it challenging. Play away!
+This is a serverless Web-Dev themed memory game built using React. The app's state shuffles around the images available to make it challenging. Play away [here](https://infinite-peak-26839.herokuapp.com/)!
+
 
 ### Downloading This Application
 To use this application:
